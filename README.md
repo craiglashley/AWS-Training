@@ -1,5 +1,9 @@
 <h1>AWS Training</h1>
 
+<h2>AWS AI Practitioner Notes (2026)</h2>
+
+- [AWS AI Practitioner Notes](https://www.notion.so/AWS-Certified-AI-Practitioner-31af5549e0fe80ce8aa2d9e806560961) 
+
 <h2>AWS Certificates of Completion (2026)</h2>
 
 - [AWS AI Practitioner Domain 1 Review](https://github.com/user-attachments/assets/73b78584-161a-4017-8ef9-db5ae26d3c39) 
